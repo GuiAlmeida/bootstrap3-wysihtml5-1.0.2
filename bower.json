@@ -17,7 +17,6 @@
   "./lib/js/bootstrap.js",
   "./src/bootstrap3-wysihtml5.js"
   ],
-  
   "keywords": [
   "bootstrap",
   "wysihtml5"
